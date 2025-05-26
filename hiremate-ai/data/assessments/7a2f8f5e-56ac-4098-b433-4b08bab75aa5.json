@@ -1,0 +1,17 @@
+{
+  "assessment_id": "7a2f8f5e-56ac-4098-b433-4b08bab75aa5",
+  "candidate_name": "Olga Chen",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=7a2f8f5e-56ac-4098-b433-4b08bab75aa5",
+  "created_at": "2025-05-25T01:20:00.481234",
+  "deadline": "2025-06-01T01:20:00.481218",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

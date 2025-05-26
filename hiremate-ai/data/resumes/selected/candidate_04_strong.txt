@@ -1,0 +1,23 @@
+MARCUS TAYLOR
+marcus.taylor@email.com | +1 909-555-7060 | LinkedIn
+
+EDUCATION
+MIT
+Master of Science in Data Science
+GPA: 3.8-4.0
+
+EXPERIENCE
+NETFLIX
+SENIOR DATA SCIENTIST
+• Developed machine learning models using Python and TensorFlow improving metrics by 45%
+• Analyzed complex datasets with 184M+ records using SQL and Python
+• Led cross-functional teams to implement data-driven solutions saving $3M annually
+
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, R, Scala
+ML/AI: TensorFlow, PyTorch, scikit-learn, XGBoost, Statistical Modeling, Deep Learning
+Tools: Spark, Hadoop, Tableau, Git, Docker, AWS, Jupyter
+Databases: PostgreSQL, MySQL, MongoDB, Redshift
+
+PROJECTS
+• Churn Prediction using SQL

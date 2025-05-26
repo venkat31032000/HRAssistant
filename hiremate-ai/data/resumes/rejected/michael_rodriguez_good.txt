@@ -1,0 +1,33 @@
+MICHAEL RODRIGUEZ
+mrodriguez@email.com | +1 512-555-0198 | LinkedIn
+
+EDUCATION
+UNIVERSITY OF TEXAS AT AUSTIN                                      Aug 2019-May 2021
+Master of Science in Computer Science
+
+TEXAS A&M UNIVERSITY                                              Aug 2015-May 2019
+Bachelor of Science in Mathematics
+
+EXPERIENCE
+DELL TECHNOLOGIES
+DATA ANALYST / JUNIOR DATA SCIENTIST                              Jun 2021-Present
+• Developed machine learning models using Python to predict customer behavior and improve targeting
+• Created SQL queries to extract and analyze data from multiple databases
+• Built dashboards using Tableau to communicate insights to stakeholders
+• Participated in statistical analysis projects to optimize supply chain operations
+
+IBM
+DATA ANALYST INTERN                                               May 2020-Aug 2020
+• Assisted in developing Python scripts for data preprocessing and analysis
+• Conducted exploratory data analysis on customer datasets
+• Created visualizations to present findings to team members
+
+TECHNICAL SKILLS
+Programming: Python, SQL, R
+Libraries: pandas, numpy, scikit-learn, matplotlib
+Tools: Jupyter Notebook, Git, Excel, Tableau
+Statistics: Hypothesis Testing, Regression Analysis
+
+PROJECTS
+Sales Forecasting Model
+Built a time series forecasting model using Python to predict quarterly sales with 85% accuracy

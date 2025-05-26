@@ -1,0 +1,17 @@
+{
+  "assessment_id": "341a8c48-7e31-4a9b-923f-784578dd8b8c",
+  "candidate_name": "Olga Johnson",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=341a8c48-7e31-4a9b-923f-784578dd8b8c",
+  "created_at": "2025-05-25T13:15:20.334762",
+  "deadline": "2025-06-01T13:15:20.334741",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

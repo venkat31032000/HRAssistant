@@ -1,0 +1,35 @@
+MARIA GARCIA
+maria.garcia@email.com | +1 415-555-0567
+
+EDUCATION
+SAN FRANCISCO STATE UNIVERSITY                                     Sep 2018-May 2021
+Bachelor of Science in Computer Science                                   GPA: 3.4
+
+EXPERIENCE
+FINTECH STARTUP
+JUNIOR DATA ANALYST                                               Jun 2021-Present
+• Analyze financial transaction data using SQL and Python
+• Create monthly reports on user behavior and fraud patterns
+• Building predictive models with guidance from senior team members
+• Learning machine learning techniques and applying to real problems
+
+WELLS FARGO
+DATA ANALYST INTERN                                               Jan 2021-May 2021
+• Assisted with data quality checks and validation
+• Created Excel dashboards for branch performance metrics
+• Learned SQL for database queries
+
+TECHNICAL SKILLS
+Programming: Python, SQL, JavaScript
+Libraries: pandas, numpy, matplotlib, scikit-learn (learning)
+Tools: Excel, Tableau, Jupyter Notebook
+Databases: MySQL, PostgreSQL
+
+PROJECTS
+• Credit Risk Analysis using Logistic Regression
+• Stock Price Prediction using LSTM (learning project)
+• Customer Churn Analysis Dashboard in Tableau
+
+CERTIFICATIONS
+• IBM Data Science Professional Certificate (in progress)
+• SQL for Data Science (Coursera)

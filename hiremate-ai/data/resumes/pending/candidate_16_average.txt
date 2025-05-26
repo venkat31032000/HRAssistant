@@ -1,0 +1,23 @@
+SARAH TAYLOR
+sarah.taylor@email.com | +1 642-555-2127 | LinkedIn
+
+EDUCATION
+REGIONAL UNIVERSITY
+Bachelor of Science in Mathematics
+GPA: 3.0-3.5
+
+EXPERIENCE
+AGENCY
+DATA ANALYST
+• Analyzed business data using SQL and Python
+• Created dashboards and reports for management
+• Assisted in data collection and cleaning processes
+
+TECHNICAL SKILLS
+Programming: Python (Basic), SQL, Excel
+Data Analysis: pandas, numpy (learning), Basic Statistics
+Tools: Jupyter Notebook, Tableau, Excel
+Currently learning: Machine Learning, TensorFlow
+
+PROJECTS
+• Customer Analysis using Machine Learning

@@ -1,0 +1,17 @@
+{
+  "assessment_id": "a9f9b068-3dd0-4b5b-b8d3-8036d5726957",
+  "candidate_name": "Ahmed Miller",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=a9f9b068-3dd0-4b5b-b8d3-8036d5726957",
+  "created_at": "2025-05-25T00:50:19.054919",
+  "deadline": "2025-06-01T00:50:19.054908",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

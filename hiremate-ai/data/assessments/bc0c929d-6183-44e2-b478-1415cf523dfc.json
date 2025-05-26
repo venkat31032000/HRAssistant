@@ -1,0 +1,17 @@
+{
+  "assessment_id": "bc0c929d-6183-44e2-b478-1415cf523dfc",
+  "candidate_name": "PRIYA PATEL",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=bc0c929d-6183-44e2-b478-1415cf523dfc",
+  "created_at": "2025-05-25T00:39:46.391094",
+  "deadline": "2025-06-01T00:39:46.391085",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

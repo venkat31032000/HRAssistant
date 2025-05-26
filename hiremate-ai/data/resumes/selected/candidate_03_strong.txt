@@ -1,0 +1,23 @@
+EMILY ROSSI
+emily.rossi@email.com | +1 587-555-4672 | LinkedIn
+
+EDUCATION
+HARVARD
+Master of Science in Data Science
+GPA: 3.8-4.0
+
+EXPERIENCE
+GOOGLE
+SENIOR DATA SCIENTIST
+• Developed machine learning models using Python and TensorFlow improving metrics by 31%
+• Analyzed complex datasets with 53M+ records using SQL and Python
+• Led cross-functional teams to implement data-driven solutions saving $3M annually
+
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, R, Scala
+ML/AI: TensorFlow, PyTorch, scikit-learn, XGBoost, Statistical Modeling, Deep Learning
+Tools: Spark, Hadoop, Tableau, Git, Docker, AWS, Jupyter
+Databases: PostgreSQL, MySQL, MongoDB, Redshift
+
+PROJECTS
+• Sales Forecasting using Python

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "david_thompson_weak.txt",
+    "name": "DAVID THOMPSON",
+    "email": "dthompson@email.com",
+    "score": 25,
+    "decision": "reject",
+    "reason": "Lacks relevant experience and required technical skills in Python, SQL, and machine learning.",
+    "processed_at": "2025-05-24T23:12:21.242325"
+  },
+  {
+    "file": "jennifer_williams_borderline.txt",
+    "name": "JENNIFER WILLIAMS",
+    "email": "jwilliams@email.com",
+    "score": 45,
+    "decision": "reject",
+    "reason": "Lacks required experience and proficiency in key skills such as Python, SQL, and TensorFlow.",
+    "processed_at": "2025-05-24T23:12:23.315333"
+  },
+  {
+    "file": "michael_rodriguez_good.txt",
+    "name": "MICHAEL RODRIGUEZ",
+    "email": "mrodriguez@email.com",
+    "score": 55,
+    "decision": "reject",
+    "reason": "Lacks required experience with TensorFlow and does not meet the 4+ years of experience requirement.",
+    "processed_at": "2025-05-24T23:12:24.230391"
+  },
+  {
+    "file": "robert_johnson_very_weak.txt",
+    "name": "ROBERT JOHNSON",
+    "email": "rjohnson@email.com",
+    "score": 10,
+    "decision": "reject",
+    "reason": "Lacks relevant experience and required skills in data science, Python, SQL, and machine learning.",
+    "processed_at": "2025-05-24T23:12:25.084871"
+  },
+  {
+    "file": "sarah_chen_strong.txt",
+    "name": "SARAH CHEN",
+    "email": "sarah.chen@email.com",
+    "score": 90,
+    "decision": "shortlist",
+    "reason": "Strong alignment with job requirements, including 4+ years of experience, proficiency in Python, SQL, TensorFlow, and statistical methods.",
+    "processed_at": "2025-05-24T23:12:26.163345"
+  }
+]

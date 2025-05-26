@@ -1,0 +1,17 @@
+{
+  "assessment_id": "c81bcc88-589a-4891-8110-41640640a5f5",
+  "candidate_name": "Yuki Wang",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=c81bcc88-589a-4891-8110-41640640a5f5",
+  "created_at": "2025-05-25T00:50:57.407291",
+  "deadline": "2025-06-01T00:50:57.407285",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

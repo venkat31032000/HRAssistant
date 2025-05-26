@@ -1,0 +1,17 @@
+{
+  "assessment_id": "9956d6ca-52b2-477b-b9d0-005134feb319",
+  "candidate_name": "Alex Rodriguez",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=9956d6ca-52b2-477b-b9d0-005134feb319",
+  "created_at": "2025-05-26T00:00:11.127935",
+  "deadline": "2025-06-02T00:00:11.127930",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

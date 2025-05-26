@@ -1,0 +1,23 @@
+EMILY PATEL
+emily.patel@email.com | +1 252-555-6262 | LinkedIn
+
+EDUCATION
+STATE UNIVERSITY
+Bachelor of Science in Mathematics
+GPA: 3.0-3.5
+
+EXPERIENCE
+TECH STARTUP
+DATA ANALYST
+• Analyzed business data using SQL and Python
+• Created dashboards and reports for management
+• Assisted in data collection and cleaning processes
+
+TECHNICAL SKILLS
+Programming: Python (Basic), SQL, Excel
+Data Analysis: pandas, numpy (learning), Basic Statistics
+Tools: Jupyter Notebook, Tableau, Excel
+Currently learning: Machine Learning, TensorFlow
+
+PROJECTS
+• Sales Forecasting using SQL

@@ -1,0 +1,35 @@
+SARAH CHEN
+venkat.posanipalle3103@gmail.com| +1 415-555-0123 | LinkedIn | GitHub
+
+EDUCATION
+STANFORD UNIVERSITY                                                Sept 2018-May 2020
+Master of Science in Data Science                                         GPA: 3.9
+
+UC BERKELEY                                                        Aug 2014-May 2018
+Bachelor of Science in Statistics                                          GPA: 3.8
+
+EXPERIENCE
+NETFLIX
+SENIOR DATA SCIENTIST                                              Jun 2020-Present
+• Developed machine learning models using Python and TensorFlow to personalize content recommendations, improving user engagement by 35%
+• Analyzed complex datasets with over 100M records using SQL and Python, deriving actionable insights that drove $2M in revenue growth
+• Implemented statistical models for A/B testing frameworks, enabling data-driven decision making across 15+ product teams
+• Collaborated with cross-functional teams including product, engineering, and marketing to identify data-driven solutions
+• Communicated complex analytical findings to C-level executives through clear visualizations and presentations
+
+AIRBNB
+DATA SCIENTIST                                                     Jul 2018-May 2020
+• Built predictive models using TensorFlow and scikit-learn to forecast booking demand, achieving 92% accuracy
+• Utilized SQL for data extraction and manipulation from petabyte-scale data warehouses
+• Conducted statistical analyses using Python to optimize pricing strategies, resulting in 15% revenue increase
+• Mentored junior data scientists and established best practices for model development
+
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, R, Scala
+ML/AI: TensorFlow, PyTorch, scikit-learn, XGBoost, Statistical Modeling, Deep Learning
+Tools: Spark, Hadoop, Tableau, Git, Docker, AWS, Jupyter
+Databases: PostgreSQL, MySQL, MongoDB, Redshift
+
+PROJECTS
+Customer Churn Prediction Model
+Developed an ensemble machine learning model achieving 94% accuracy in predicting customer churn

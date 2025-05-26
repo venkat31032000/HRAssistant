@@ -1,0 +1,41 @@
+**Job Title: Software Engineer**  
+**Company Overview:**  
+Join us at HireMate AI, a dynamic startup based in the vibrant city of Boston, Massachusetts. We are revolutionizing the recruitment process with our innovative AI-driven solutions. Our mission is to empower businesses to find the right talent efficiently and effectively. As we grow, we are looking for passionate and skilled individuals to join our team!
+
+**Role Summary:**  
+As a Software Engineer at HireMate AI, you will play a crucial role in the development and enhancement of our cutting-edge software solutions. You will collaborate with a talented team of engineers and product managers to build scalable applications that drive our mission forward. This is a full-time, on-site position where your contributions will directly impact the future of our company and the clients we serve.
+
+**Key Responsibilities:**  
+- Design, develop, and maintain high-quality software applications using Python.  
+- Collaborate with cross-functional teams to define, design, and ship new features.  
+- Troubleshoot and debug applications to optimize performance and ensure scalability.  
+- Participate in code reviews to maintain code quality and share knowledge within the team.  
+- Stay updated with emerging technologies and industry trends to integrate best practices into our development processes.  
+- Contribute to all phases of the software development lifecycle, from concept through deployment.  
+
+**Required Qualifications:**  
+- Bachelor’s degree in Computer Science, Engineering, or a related field.  
+- A minimum of 5 years of professional experience in software development.  
+- Proficient in Python and familiarity with related frameworks and libraries.  
+- Strong understanding of software development principles and methodologies.  
+- Excellent problem-solving skills and the ability to work collaboratively within a team.  
+
+**Preferred Qualifications:**  
+- Experience with cloud platforms (e.g., AWS, Azure, Google Cloud).  
+- Knowledge of front-end technologies (e.g., HTML, CSS, JavaScript).  
+- Familiarity with databases (e.g., SQL, NoSQL) and data modeling.  
+- Previous experience in a startup environment or agile development.  
+- Passion for AI and its applications in the recruitment industry.  
+
+**What We Offer:**  
+- A competitive salary range of $60,000 - $80,000, commensurate with experience.  
+- A vibrant, inclusive, and collaborative work environment.  
+- Opportunities for professional growth and advancement within the company.  
+- Comprehensive benefits package, including health, dental, and vision coverage.  
+- Flexible work hours and a focus on work-life balance.  
+- The chance to be part of an innovative team that values creativity and initiative.  
+
+**How to Apply:**  
+If you’re excited to join HireMate AI and contribute to shaping the future of recruitment technology, we’d love to hear from you! Please submit your resume and a brief cover letter outlining your relevant experience and why you’re a great fit for our team to [insert application email or link].  
+
+Join us at HireMate AI, where your skills and ideas will make a difference!

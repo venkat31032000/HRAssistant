@@ -1,0 +1,23 @@
+ALEX RODRIGUEZ
+alex.rodriguez@email.com | +1 857-555-1289 | LinkedIn
+
+EDUCATION
+UNIVERSITY OF WASHINGTON
+Master of Science in Computer Science
+GPA: 3.5-3.8
+
+EXPERIENCE
+ADOBE
+DATA SCIENTIST
+• Built predictive models using Python and machine learning techniques
+• Created automated reporting pipelines processing 10M+ records daily
+• Improved key metrics by 15% through data analysis
+
+TECHNICAL SKILLS
+Programming: Python, SQL, R
+Machine Learning: scikit-learn, TensorFlow, Random Forests, Neural Networks
+Tools: Tableau, Power BI, Git, Jupyter, Apache Spark (basics)
+Databases: PostgreSQL, MySQL, MongoDB
+
+PROJECTS
+• Recommendation System using SQL

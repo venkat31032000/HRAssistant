@@ -1,0 +1,17 @@
+{
+  "assessment_id": "1a7184c8-e20a-4852-98c2-348cc512026d",
+  "candidate_name": "Anna Smith",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=1a7184c8-e20a-4852-98c2-348cc512026d",
+  "created_at": "2025-05-25T16:21:13.495582",
+  "deadline": "2025-06-01T16:21:13.495565",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

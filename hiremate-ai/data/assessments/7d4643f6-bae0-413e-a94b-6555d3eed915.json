@@ -1,0 +1,17 @@
+{
+  "assessment_id": "7d4643f6-bae0-413e-a94b-6555d3eed915",
+  "candidate_name": "Emily Zhang",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=7d4643f6-bae0-413e-a94b-6555d3eed915",
+  "created_at": "2025-05-25T13:15:02.715536",
+  "deadline": "2025-06-01T13:15:02.715515",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

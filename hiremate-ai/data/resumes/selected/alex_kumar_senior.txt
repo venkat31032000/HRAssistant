@@ -1,0 +1,36 @@
+ALEX KUMAR
+alex.kumar@email.com | +1 408-555-0156 | LinkedIn | GitHub
+
+EDUCATION
+MIT                                                                Sep 2012-May 2014
+Master of Science in Computer Science, Machine Learning Focus              GPA: 3.95
+
+IIT DELHI                                                          Aug 2008-May 2012
+Bachelor of Technology in Computer Science                                 GPA: 9.2/10
+
+EXPERIENCE
+GOOGLE
+SENIOR DATA SCIENTIST / TECH LEAD                                  Mar 2018-Present
+• Lead a team of 5 data scientists developing ML models for Google Ads optimization
+• Architected and deployed TensorFlow models serving 1B+ predictions daily with 99.9% uptime
+• Reduced ad targeting error by 23% using advanced deep learning techniques
+• Established ML best practices and mentored junior team members
+• Collaborated with product teams to define and implement data-driven features
+
+AMAZON
+DATA SCIENTIST                                                     Jun 2014-Feb 2018
+• Developed recommendation systems using Python, SQL, and TensorFlow for Amazon Prime
+• Built real-time fraud detection models processing 10M+ transactions daily
+• Implemented A/B testing framework that increased conversion rates by 18%
+• Created automated ML pipelines reducing model deployment time by 60%
+
+TECHNICAL SKILLS
+Languages: Python, SQL, Scala, Java, R
+ML/Deep Learning: TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, LightGBM
+Big Data: Spark, Hadoop, Kafka, Airflow, Hive
+Cloud: AWS, GCP, Docker, Kubernetes
+Statistics: Bayesian Methods, Time Series, Causal Inference, Experimental Design
+
+PUBLICATIONS
+• "Deep Learning for Real-time Ad Optimization" - NeurIPS 2022
+• "Scalable Recommendation Systems using Graph Neural Networks" - RecSys 2021

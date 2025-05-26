@@ -1,0 +1,31 @@
+JENNIFER WILLIAMS
+jwilliams@email.com | +1 303-555-0145
+
+EDUCATION
+COLORADO STATE UNIVERSITY                                          Aug 2017-May 2021
+Bachelor of Science in Business Analytics
+
+EXPERIENCE
+TECH STARTUP LLC
+JUNIOR DATA ANALYST                                               Jul 2021-Present
+• Analyzed business data using Excel and basic SQL queries
+• Created reports and dashboards for management team
+• Assisted in data collection and cleaning processes
+• Learning Python for data analysis tasks
+
+RETAIL COMPANY
+BUSINESS ANALYST INTERN                                           Jun 2020-Aug 2020
+• Performed data entry and basic analysis using Excel
+• Helped create PowerPoint presentations for quarterly reviews
+
+TECHNICAL SKILLS
+Tools: Excel (Advanced), SQL (Basic), Python (Learning), PowerBI
+Other: Data Visualization, Report Writing, Presentation Skills
+
+PROJECTS
+Customer Segmentation Analysis
+Used Excel and basic Python to segment customers into different groups for marketing campaigns
+
+CERTIFICATIONS
+• Google Data Analytics Certificate (2023)
+• Currently pursuing Machine Learning courses on Coursera

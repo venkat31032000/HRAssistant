@@ -1,0 +1,23 @@
+MICHAEL PETROV
+michael.petrov@email.com | +1 707-555-7602 | LinkedIn
+
+EDUCATION
+COMMUNITY COLLEGE
+Bachelor of Science in Mathematics
+GPA: 3.0-3.5
+
+EXPERIENCE
+AGENCY
+ANALYST INTERN
+• Analyzed business data using SQL and Python
+• Created dashboards and reports for management
+• Assisted in data collection and cleaning processes
+
+TECHNICAL SKILLS
+Programming: Python (Basic), SQL, Excel
+Data Analysis: pandas, numpy (learning), Basic Statistics
+Tools: Jupyter Notebook, Tableau, Excel
+Currently learning: Machine Learning, TensorFlow
+
+PROJECTS
+• Customer Analysis using Python

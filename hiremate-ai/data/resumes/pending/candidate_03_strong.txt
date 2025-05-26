@@ -1,0 +1,23 @@
+DMITRI MOORE
+dmitri.moore@email.com | +1 426-555-5016 | LinkedIn
+
+EDUCATION
+UC BERKELEY
+Master of Science in Data Science
+GPA: 3.8-4.0
+
+EXPERIENCE
+GOOGLE
+DATA SCIENTIST
+• Developed machine learning models using Python and TensorFlow improving metrics by 40%
+• Analyzed complex datasets with 92M+ records using SQL and Python
+• Led cross-functional teams to implement data-driven solutions saving $2M annually
+
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, R, Scala
+ML/AI: TensorFlow, PyTorch, scikit-learn, XGBoost, Statistical Modeling, Deep Learning
+Tools: Spark, Hadoop, Tableau, Git, Docker, AWS, Jupyter
+Databases: PostgreSQL, MySQL, MongoDB, Redshift
+
+PROJECTS
+• Sales Forecasting using SQL

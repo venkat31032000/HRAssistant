@@ -1,0 +1,39 @@
+RAJ SINGH
+raj.singh@email.com | +1 425-555-0267 | LinkedIn
+
+EDUCATION
+UNIVERSITY OF WASHINGTON                                           Sep 2021-Jun 2023
+Master of Science in Information Systems                                  GPA: 3.5
+
+DELHI UNIVERSITY                                                   Aug 2018-May 2021
+Bachelor of Science in Computer Science                                   GPA: 7.8/10
+
+EXPERIENCE
+MICROSOFT (Contract)
+DATA ANALYST                                                      Aug 2023-Present
+• Support data analysis tasks using SQL and Excel for the Office 365 team
+• Create weekly reports on user engagement metrics
+• Learning Python and machine learning on the job
+• Assist senior data scientists with data preparation tasks
+
+TECH MAHINDRA
+JUNIOR ANALYST INTERN                                             May 2022-Jul 2022
+• Worked on data cleaning and preprocessing tasks
+• Created basic visualizations using Python matplotlib
+• Documented data analysis processes
+
+TECHNICAL SKILLS
+Programming: Python (Basic), SQL, Java
+Data Analysis: pandas, numpy (learning), Excel
+Machine Learning: Currently learning through online courses
+Tools: Jupyter Notebook, VS Code
+
+PROJECTS
+University Projects:
+• Sentiment Analysis of Twitter Data using Python
+• Sales Dashboard using Tableau
+• Basic Recommendation System using collaborative filtering
+
+INTERESTS
+• Eager to transition into data science and machine learning
+• Completed Andrew Ng's Machine Learning Course

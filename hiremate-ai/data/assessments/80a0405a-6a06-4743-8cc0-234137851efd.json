@@ -1,0 +1,17 @@
+{
+  "assessment_id": "80a0405a-6a06-4743-8cc0-234137851efd",
+  "candidate_name": "Dmitri Moore",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=80a0405a-6a06-4743-8cc0-234137851efd",
+  "created_at": "2025-05-25T16:21:05.738625",
+  "deadline": "2025-06-01T16:21:05.738604",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

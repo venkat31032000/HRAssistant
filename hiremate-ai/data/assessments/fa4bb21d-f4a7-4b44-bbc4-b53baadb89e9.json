@@ -1,0 +1,17 @@
+{
+  "assessment_id": "fa4bb21d-f4a7-4b44-bbc4-b53baadb89e9",
+  "candidate_name": "James Wilson",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=fa4bb21d-f4a7-4b44-bbc4-b53baadb89e9",
+  "created_at": "2025-05-25T01:20:30.369270",
+  "deadline": "2025-06-01T01:20:30.369248",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "assessment_id": "c5d05168-1e47-4510-9231-931a52c4ef80",
+  "candidate_name": "Sarah Jones",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=c5d05168-1e47-4510-9231-931a52c4ef80",
+  "created_at": "2025-05-25T23:59:44.206714",
+  "deadline": "2025-06-01T23:59:44.206708",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

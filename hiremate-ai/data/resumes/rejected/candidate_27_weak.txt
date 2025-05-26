@@ -1,0 +1,22 @@
+ISABELLA JOHNSON
+isabella.johnson@email.com | +1 737-555-2557 | LinkedIn
+
+EDUCATION
+REGIONAL UNIVERSITY
+Bachelor of Arts in Business
+GPA: 2.5-3.0
+
+EXPERIENCE
+LOCAL COMPANY
+DATA ANALYST
+• Created reports using Excel
+• Assisted with data entry tasks
+• Learning SQL and Python basics
+
+TECHNICAL SKILLS
+Tools: Excel, Basic SQL
+Other: Data Entry, Report Creation, Google Analytics
+Learning: Python basics, Statistics
+
+PROJECTS
+• Sales Forecasting using SQL

@@ -1,0 +1,34 @@
+PRIYA PATEL
+priya.patel@email.com | +1 669-555-0234 | LinkedIn
+
+EDUCATION
+UNIVERSITY OF CALIFORNIA, SAN DIEGO                               Sep 2017-Jun 2019
+Master of Science in Data Science                                         GPA: 3.7
+
+UNIVERSITY OF MUMBAI                                              Jul 2013-May 2017
+Bachelor of Engineering in Information Technology                          GPA: 8.5/10
+
+EXPERIENCE
+SALESFORCE
+DATA SCIENTIST                                                    Jul 2019-Present
+• Built customer segmentation models using Python and machine learning techniques
+• Developed predictive models using SQL and Python to identify at-risk customers
+• Created automated reporting pipelines processing 5M+ records daily
+• Implemented A/B testing for product features, improving user engagement by 20%
+• Collaborated with engineering teams to deploy models in production
+
+CAPGEMINI
+DATA ANALYST                                                      Jun 2017-Jun 2019
+• Analyzed business data using SQL and Python for Fortune 500 clients
+• Created dashboards and reports using Tableau and Power BI
+• Assisted in developing machine learning POCs for client projects
+
+TECHNICAL SKILLS
+Programming: Python, SQL, R
+Machine Learning: scikit-learn, TensorFlow, Random Forests, Neural Networks
+Tools: Tableau, Power BI, Git, Jupyter, Apache Spark (basics)
+Databases: PostgreSQL, MySQL, MongoDB
+
+CERTIFICATIONS
+• TensorFlow Developer Certificate (2023)
+• AWS Certified Machine Learning - Specialty (2022)

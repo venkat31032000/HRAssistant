@@ -1,0 +1,36 @@
+LISA WANG
+lisa.wang@email.com | +1 650-555-0789 | LinkedIn
+
+EDUCATION
+CARNEGIE MELLON UNIVERSITY                                         Sep 2010-May 2012
+Master of Science in Machine Learning                                     GPA: 4.0
+
+TSINGHUA UNIVERSITY                                               Sep 2006-Jun 2010
+Bachelor of Science in Computer Science                                   GPA: 3.9/4.0
+
+EXPERIENCE
+META (FACEBOOK)
+PRINCIPAL DATA SCIENTIST                                          Jan 2018-Present
+• Lead ML initiatives for Facebook News Feed ranking algorithm serving 2B+ users
+• Developed deep learning models using TensorFlow and PyTorch improving engagement by 40%
+• Architected real-time ML pipeline processing 500B+ events daily
+• Published 3 papers on recommendation systems and presented at major conferences
+• Mentored 10+ data scientists and established company-wide ML best practices
+
+UBER
+SENIOR DATA SCIENTIST                                             Mar 2014-Dec 2017
+• Built dynamic pricing models using Python and machine learning increasing revenue by $50M
+• Developed driver churn prediction models with 89% accuracy
+• Implemented real-time anomaly detection system for fraud prevention
+• Led A/B testing framework used across all product teams
+
+MICROSOFT RESEARCH
+DATA SCIENTIST                                                    Jul 2012-Feb 2014
+• Conducted research on natural language processing and machine learning
+• Published papers on neural networks and deep learning applications
+
+TECHNICAL SKILLS
+Programming: Python, SQL, Scala, C++, R
+ML/AI: TensorFlow, PyTorch, Deep Learning, NLP, Computer Vision, Reinforcement Learning
+Big Data: Spark, Hadoop, Kafka, Flink, Cassandra
+Statistics: Causal Inference, Bayesian Statistics, Experimental Design, Time Series Analysis

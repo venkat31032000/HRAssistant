@@ -1,0 +1,17 @@
+{
+  "assessment_id": "408dfdb9-3c1e-4815-a420-7ad3da52d1d6",
+  "candidate_name": "LISA WANG",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=408dfdb9-3c1e-4815-a420-7ad3da52d1d6",
+  "created_at": "2025-05-25T00:39:30.337616",
+  "deadline": "2025-06-01T00:39:30.337595",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

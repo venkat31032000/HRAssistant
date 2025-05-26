@@ -1,0 +1,32 @@
+KEVIN BROWN
+kevin.brown@email.com | +1 312-555-0890
+
+EDUCATION
+UNIVERSITY OF ILLINOIS                                            Sep 2020-May 2023
+Bachelor of Science in Information Sciences                               GPA: 3.0
+
+EXPERIENCE
+INSURANCE COMPANY
+JUNIOR ANALYST                                                    Jul 2023-Present
+• Create reports using Excel and basic SQL
+• Assist with data entry and validation
+• Learning Python to automate repetitive tasks
+
+UNIVERSITY LIBRARY
+STUDENT ASSISTANT                                                 Sep 2021-May 2023
+• Helped digitize library records
+• Basic data management tasks
+
+SKILLS
+• Excel (Intermediate)
+• SQL (Basic)
+• Python (Beginner - currently learning)
+• Good analytical thinking
+
+PROJECTS
+• Library Database Management System (University Project)
+• Basic Data Analysis using Python pandas
+
+GOALS
+• Transition into data science field
+• Currently taking online courses in statistics and machine learning

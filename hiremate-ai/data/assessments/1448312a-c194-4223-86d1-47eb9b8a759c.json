@@ -1,0 +1,17 @@
+{
+  "assessment_id": "1448312a-c194-4223-86d1-47eb9b8a759c",
+  "candidate_name": "James Thomas",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=1448312a-c194-4223-86d1-47eb9b8a759c",
+  "created_at": "2025-05-25T23:59:14.985119",
+  "deadline": "2025-06-01T23:59:14.985113",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

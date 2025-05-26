@@ -1,0 +1,17 @@
+{
+  "assessment_id": "8966a3d6-4dee-472d-8b41-a27243aa5813",
+  "candidate_name": "John Martinez",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=8966a3d6-4dee-472d-8b41-a27243aa5813",
+  "created_at": "2025-05-25T13:13:54.072305",
+  "deadline": "2025-06-01T13:13:54.072279",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

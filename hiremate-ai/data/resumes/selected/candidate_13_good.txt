@@ -1,0 +1,23 @@
+MARCUS THOMPSON
+marcus.thompson@email.com | +1 366-555-4739 | LinkedIn
+
+EDUCATION
+GEORGIA TECH
+Master of Science in Computer Science
+GPA: 3.5-3.8
+
+EXPERIENCE
+ADOBE
+DATA SCIENTIST
+• Built predictive models using Python and machine learning techniques
+• Created automated reporting pipelines processing 7M+ records daily
+• Improved key metrics by 15% through data analysis
+
+TECHNICAL SKILLS
+Programming: Python, SQL, R
+Machine Learning: scikit-learn, TensorFlow, Random Forests, Neural Networks
+Tools: Tableau, Power BI, Git, Jupyter, Apache Spark (basics)
+Databases: PostgreSQL, MySQL, MongoDB
+
+PROJECTS
+• Churn Prediction using SQL

@@ -1,0 +1,21 @@
+**Job Title: Data Scientist**
+
+**Location:** Remote  
+**Employment Type:** Full-time  
+**Salary Range:** $120,000 - $160,000  
+
+We are seeking an experienced Data Scientist with 4+ years of experience to join our dynamic team. 
+
+**Key Responsibilities:**
+- Analyze and interpret complex data sets using Python and SQL
+- Design and implement machine learning models using TensorFlow
+- Collaborate with cross-functional teams to identify data-driven solutions
+- Conduct statistical analyses to inform business strategies
+
+**Qualifications:**
+- 4+ years of experience in data science or related field
+- Proficient in Python, SQL, and machine learning
+- Experience with TensorFlow and statistical methods
+- Strong analytical and problem-solving skills
+
+**Required Skills:** Python, Machine Learning, SQL, TensorFlow, Statistics

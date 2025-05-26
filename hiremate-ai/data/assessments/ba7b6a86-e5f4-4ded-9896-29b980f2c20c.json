@@ -1,0 +1,17 @@
+{
+  "assessment_id": "ba7b6a86-e5f4-4ded-9896-29b980f2c20c",
+  "candidate_name": "Emily Rossi",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=ba7b6a86-e5f4-4ded-9896-29b980f2c20c",
+  "created_at": "2025-05-25T00:50:35.322484",
+  "deadline": "2025-06-01T00:50:35.322478",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

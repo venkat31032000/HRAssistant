@@ -1,0 +1,287 @@
+{
+  "processing_date": "2025-05-25T01:22:50.843438",
+  "resume_results": [
+    {
+      "file": "candidate_08_good.txt",
+      "name": "Luis Williams",
+      "email": "venkat.posanipalle3103@gmail.com",
+      "score": 70,
+      "decision": "shortlist",
+      "reason": "Strong experience in Python, SQL, and TensorFlow; relevant machine learning skills and projects align well with the job requirements.",
+      "processed_at": "2025-05-25T01:18:41.570384"
+    },
+    {
+      "file": "candidate_12_good.txt",
+      "name": "David Wang",
+      "email": "venkat.posanipalle3103@gmail.com",
+      "score": 75,
+      "decision": "shortlist",
+      "reason": "Strong experience in data science, proficient in required skills (Python, SQL, TensorFlow), and relevant work experience.",
+      "processed_at": "2025-05-25T01:18:49.501200"
+    }
+  ],
+  "assessments_sent": 13,
+  "assessment_pass": 9,
+  "final_selections": 8,
+  "interview_results": [
+    {
+      "candidate": "John Martinez",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 73,
+      "passed": true
+    },
+    {
+      "candidate": "James Thomas",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 86,
+      "passed": true
+    },
+    {
+      "candidate": "Dmitri Moore",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 86,
+      "passed": true
+    },
+    {
+      "candidate": "Anna Smith",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 71,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Chen",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 69,
+      "passed": true
+    },
+    {
+      "candidate": "Michael Li",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 74,
+      "passed": true
+    },
+    {
+      "candidate": "Alex Rodriguez",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 66,
+      "passed": true
+    },
+    {
+      "candidate": "David Wang",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 82,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Johnson",
+      "round": 1,
+      "round_name": "Technical Screen",
+      "score": 90,
+      "passed": true
+    },
+    {
+      "candidate": "John Martinez",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 64,
+      "passed": true
+    },
+    {
+      "candidate": "James Thomas",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 93,
+      "passed": true
+    },
+    {
+      "candidate": "Dmitri Moore",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 88,
+      "passed": true
+    },
+    {
+      "candidate": "Anna Smith",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 80,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Chen",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 82,
+      "passed": true
+    },
+    {
+      "candidate": "Michael Li",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 79,
+      "passed": true
+    },
+    {
+      "candidate": "Alex Rodriguez",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 66,
+      "passed": true
+    },
+    {
+      "candidate": "David Wang",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 80,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Johnson",
+      "round": 2,
+      "round_name": "Coding Interview",
+      "score": 76,
+      "passed": true
+    },
+    {
+      "candidate": "John Martinez",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 83,
+      "passed": true
+    },
+    {
+      "candidate": "James Thomas",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 69,
+      "passed": true
+    },
+    {
+      "candidate": "Dmitri Moore",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 74,
+      "passed": true
+    },
+    {
+      "candidate": "Anna Smith",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 79,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Chen",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 88,
+      "passed": true
+    },
+    {
+      "candidate": "Michael Li",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 89,
+      "passed": true
+    },
+    {
+      "candidate": "Alex Rodriguez",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 88,
+      "passed": true
+    },
+    {
+      "candidate": "David Wang",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 97,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Johnson",
+      "round": 3,
+      "round_name": "System Design",
+      "score": 65,
+      "passed": true
+    },
+    {
+      "candidate": "John Martinez",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 95,
+      "passed": true
+    },
+    {
+      "candidate": "James Thomas",
+      "round": 4,
+      "round_name": "Leadership & Behavioral",
+      "score": 67,
+      "passed": true
+    },
+    {
+      "candidate": "Dmitri Moore",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 81,
+      "passed": true
+    },
+    {
+      "candidate": "Anna Smith",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 58,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Chen",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 65,
+      "passed": true
+    },
+    {
+      "candidate": "Michael Li",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 72,
+      "passed": true
+    },
+    {
+      "candidate": "Alex Rodriguez",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 91,
+      "passed": true
+    },
+    {
+      "candidate": "David Wang",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 90,
+      "passed": true
+    },
+    {
+      "candidate": "Olga Johnson",
+      "round": 4,
+      "round_name": "HR & Cultural Fit",
+      "score": 95,
+      "passed": true
+    },
+    {
+      "candidate": "James Thomas",
+      "round": 5,
+      "round_name": "Final HR",
+      "score": 91,
+      "passed": true
+    }
+  ]
+}

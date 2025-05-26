@@ -1,0 +1,31 @@
+JAMES WILSON
+james.wilson@email.com | +1 206-555-0432 | LinkedIn
+
+EDUCATION
+UNIVERSITY OF WASHINGTON                                           Sep 2016-Jun 2018
+Master of Science in Statistics                                           GPA: 3.8
+
+PENN STATE UNIVERSITY                                             Aug 2012-May 2016
+Bachelor of Science in Mathematics and Statistics                         GPA: 3.6
+
+EXPERIENCE
+AMAZON WEB SERVICES
+DATA SCIENTIST                                                    Aug 2018-Present
+• Developed machine learning models for AWS cost optimization saving customers $10M+ annually
+• Built predictive models using Python, SQL, and TensorFlow for resource allocation
+• Created automated anomaly detection systems processing millions of metrics
+• Implemented statistical models for capacity planning and demand forecasting
+• Presented findings to senior leadership and external customers
+
+BOEING
+DATA ANALYST                                                      Jun 2016-Jul 2018
+• Analyzed aircraft sensor data using Python and R for predictive maintenance
+• Built dashboards in Tableau for operations monitoring
+• Developed statistical models to optimize maintenance schedules
+
+TECHNICAL SKILLS
+Programming: Python, SQL, R, Java
+Machine Learning: TensorFlow, scikit-learn, XGBoost, Time Series Analysis
+Cloud: AWS (SageMaker, Redshift, S3), Azure
+Statistics: Bayesian Analysis, Hypothesis Testing, Forecasting
+Tools: Tableau, Git, Docker, Airflow

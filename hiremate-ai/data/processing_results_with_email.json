@@ -1,0 +1,30 @@
+[
+  {
+    "file": "david_thompson_weak.txt",
+    "name": "DAVID THOMPSON",
+    "email": "venkat.posanipalle3103@gmail.com",
+    "error": "[WinError 183] Cannot create a file when that file already exists: '../../data/resumes/pending\\\\david_thompson_weak.txt' -> '../../data/resumes/rejected\\\\david_thompson_weak.txt'",
+    "processed_at": "2025-05-24T23:45:49.600214"
+  },
+  {
+    "file": "jennifer_williams_borderline.txt",
+    "name": "JENNIFER WILLIAMS",
+    "email": "venkat.posanipalle3103@gmail.com",
+    "error": "[WinError 183] Cannot create a file when that file already exists: '../../data/resumes/pending\\\\jennifer_williams_borderline.txt' -> '../../data/resumes/rejected\\\\jennifer_williams_borderline.txt'",
+    "processed_at": "2025-05-24T23:45:51.766421"
+  },
+  {
+    "file": "robert_johnson_very_weak.txt",
+    "name": "ROBERT JOHNSON",
+    "email": "venkat.posanipalle3103@gmail.com",
+    "error": "[WinError 183] Cannot create a file when that file already exists: '../../data/resumes/pending\\\\robert_johnson_very_weak.txt' -> '../../data/resumes/rejected\\\\robert_johnson_very_weak.txt'",
+    "processed_at": "2025-05-24T23:45:53.887992"
+  },
+  {
+    "file": "sarah_chen_strong.txt",
+    "name": "SARAH CHEN",
+    "email": "venkat.posanipalle3103@gmail.com",
+    "error": "[WinError 183] Cannot create a file when that file already exists: '../../data/resumes/pending\\\\sarah_chen_strong.txt' -> '../../data/resumes/selected\\\\sarah_chen_strong.txt'",
+    "processed_at": "2025-05-24T23:45:55.890958"
+  }
+]

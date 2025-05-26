@@ -1,0 +1,22 @@
+SARAH CHEN
+sarah.chen@email.com | +1 726-555-7246 | LinkedIn
+
+EDUCATION
+COMMUNITY COLLEGE
+Bachelor of Arts in Business
+GPA: 2.5-3.0
+
+EXPERIENCE
+AGENCY
+ANALYST INTERN
+• Created reports using Excel
+• Assisted with data entry tasks
+• Learning SQL and Python basics
+
+TECHNICAL SKILLS
+Tools: Excel, Basic SQL
+Other: Data Entry, Report Creation, Google Analytics
+Learning: Python basics, Statistics
+
+PROJECTS
+• Recommendation System using Python

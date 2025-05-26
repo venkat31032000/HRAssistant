@@ -1,0 +1,33 @@
+EMILY ZHANG
+emily.zhang@email.com | +1 213-555-0298
+
+EDUCATION
+UCLA                                                              Sep 2020-Jun 2024
+Bachelor of Arts in Economics                                             GPA: 3.2
+
+EXPERIENCE
+BANK OF AMERICA
+FINANCIAL ANALYST INTERN                                          Jun 2023-Aug 2023
+• Analyzed financial data using Excel
+• Created reports for senior management
+• Learned basic SQL for database queries
+
+CAMPUS BOOKSTORE
+SALES ASSOCIATE                                                   Sep 2021-May 2023
+• Handled customer transactions
+• Managed inventory using store database
+
+SKILLS
+• Excel (Intermediate)
+• SQL (Beginner)
+• Statistics (From coursework)
+• Currently learning Python through Codecademy
+
+RELEVANT COURSEWORK
+• Statistics for Business
+• Introduction to Data Analysis
+• Economic Modeling
+
+INTERESTS
+• Transitioning from finance to data science
+• Enrolled in online Data Science bootcamp

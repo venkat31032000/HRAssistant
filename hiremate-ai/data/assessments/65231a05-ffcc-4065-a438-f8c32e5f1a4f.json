@@ -1,0 +1,17 @@
+{
+  "assessment_id": "65231a05-ffcc-4065-a438-f8c32e5f1a4f",
+  "candidate_name": "Michael Li",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=65231a05-ffcc-4065-a438-f8c32e5f1a4f",
+  "created_at": "2025-05-25T01:20:14.772642",
+  "deadline": "2025-06-01T01:20:14.772623",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

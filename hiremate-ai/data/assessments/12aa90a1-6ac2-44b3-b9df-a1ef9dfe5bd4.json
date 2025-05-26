@@ -1,0 +1,17 @@
+{
+  "assessment_id": "12aa90a1-6ac2-44b3-b9df-a1ef9dfe5bd4",
+  "candidate_name": "Marcus Taylor",
+  "candidate_email": "venkat.posanipalle3103@gmail.com",
+  "test_type": "data_science",
+  "link": "https://www.hackerrank.com/test/data-science-test?candidate=12aa90a1-6ac2-44b3-b9df-a1ef9dfe5bd4",
+  "created_at": "2025-05-25T00:50:41.816721",
+  "deadline": "2025-06-01T00:50:41.816688",
+  "duration": "90 minutes",
+  "status": "sent",
+  "topics": [
+    "NumPy",
+    "Pandas",
+    "Statistics",
+    "Machine Learning Basics"
+  ]
+}

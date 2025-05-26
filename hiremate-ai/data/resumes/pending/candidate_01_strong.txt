@@ -1,0 +1,23 @@
+JOHN MARTINEZ
+john.martinez@email.com | +1 372-555-8701 | LinkedIn
+
+EDUCATION
+HARVARD
+Master of Science in Data Science
+GPA: 3.8-4.0
+
+EXPERIENCE
+META
+DATA SCIENTIST
+• Developed machine learning models using Python and TensorFlow improving metrics by 45%
+• Analyzed complex datasets with 199M+ records using SQL and Python
+• Led cross-functional teams to implement data-driven solutions saving $2M annually
+
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, R, Scala
+ML/AI: TensorFlow, PyTorch, scikit-learn, XGBoost, Statistical Modeling, Deep Learning
+Tools: Spark, Hadoop, Tableau, Git, Docker, AWS, Jupyter
+Databases: PostgreSQL, MySQL, MongoDB, Redshift
+
+PROJECTS
+• Customer Analysis using SQL

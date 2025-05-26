@@ -1,0 +1,22 @@
+MICHAEL DOE
+michael.doe@email.com | +1 421-555-2141 | LinkedIn
+
+EDUCATION
+STATE UNIVERSITY
+Bachelor of Arts in Business
+GPA: 2.5-3.0
+
+EXPERIENCE
+AGENCY
+ANALYST INTERN
+• Created reports using Excel
+• Assisted with data entry tasks
+• Learning SQL and Python basics
+
+TECHNICAL SKILLS
+Tools: Excel, Basic SQL
+Other: Data Entry, Report Creation, Google Analytics
+Learning: Python basics, Statistics
+
+PROJECTS
+• Churn Prediction using Python
